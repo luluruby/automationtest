@@ -7,3 +7,5 @@ def login_with_password():
     pass
 def login_with_mfa():
     pass
+def test():
+    pass
